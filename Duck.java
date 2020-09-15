@@ -2,7 +2,8 @@ public class Duck extends Bird {
       
     private boolean swimming;
     
-	public Duck(String name) {  
+	public Duck(String name) {
+
 	    super(name);  
 	    this.swimming = false;  
 	}
