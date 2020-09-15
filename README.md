@@ -14,4 +14,4 @@ extending this abstract class with an override of the <code>doStuff</code> metho
 
 Some instructions are written through a <code>main</code> method in a <code>Hangar</code> class to check if the exercise is correct.
 
-![screen capture](https://github.com/0reldev/quest-java-oop2/blob/master/img/screen-capture-1.png)
+![screen capture](https://github.com/0reldev/quest-java-oop2/blob/master/screen-capture-1.png)
